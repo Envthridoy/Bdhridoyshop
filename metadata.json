@@ -1,0 +1,8 @@
+{
+  "name": "BdHridoyShop",
+  "description": "Curated Bangladeshi apparel, artisanal home goods, leather craft, and precision audio & desk hardware with nationwide delivery across all 64 districts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

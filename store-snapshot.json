@@ -1,0 +1,562 @@
+{
+  "exportedAt": "2026-11-13T18:15:36.861Z",
+  "siteSettings": {
+    "storeName": "BdHridoyShop",
+    "tagline": "Shop Smart... Live Better...",
+    "logoUrl": "",
+    "primaryColor": "#133475",
+    "accentColor": "#E11D2E",
+    "topBarText1": "Free Delivery all over Bangladesh",
+    "topBarText2": "Safe & Secure Payment",
+    "topBarText3": "24/7 Customer Support",
+    "heroEyebrow": "Welcome to",
+    "heroHeadline": "BdHridoyShop",
+    "heroSubtitle": "Shop Smart... Live Better...",
+    "heroBadgeTop": "Best Products · Best Price",
+    "heroBadgeMain": "Shop Now & Enjoy Amazing Offers!",
+    "heroBannerUrl": "",
+    "specialOfferBadge": "Special Offer",
+    "specialOfferTitle": "Flat 50% OFF",
+    "specialOfferSubtitle": "on Selected Products",
+    "specialOfferPromoCode": "HRIDOY10",
+    "whyChooseTitle": "Why Choose BdHridoyShop?",
+    "whyChooseItems": [
+      "Trusted Online Shop",
+      "Fast & Free Delivery",
+      "Secure Transactions",
+      "Friendly Support",
+      "100% Customer Satisfaction"
+    ],
+    "whyChooseFooter": "Thank you for choosing us!",
+    "whatsappNumber": "01728-999820",
+    "bkashNumber": "01700-889900",
+    "nagadNumber": "01700-889900",
+    "rocketNumber": "01700-8899001",
+    "addressText": "Road 11, Banani, Dhaka 1213",
+    "footerDescription": "Your trusted Bangladeshi marketplace for electronics, gadgets, fashion, and everyday home essentials.",
+    "copyrightText": "© 2026 BdHridoyShop. All rights reserved.",
+    "showPromoBanner": true,
+    "showNewsletter": true,
+    "showWhyChoose": true
+  },
+  "adSettings": {
+    "metaPixelId": "",
+    "googleTagId": "",
+    "tiktokPixelId": "",
+    "defaultUtmSource": "facebook"
+  },
+  "promos": [
+    {
+      "code": "HRI996",
+      "type": "percent",
+      "value": 10,
+      "minSubtotal": 2000,
+      "label": "HRI996 Savings"
+    },
+    {
+      "code": "HRIDOY10",
+      "type": "percent",
+      "value": 10,
+      "minSubtotal": 1000,
+      "label": "10% Welcome Privilege"
+    },
+    {
+      "code": "DHAKA500",
+      "type": "flat",
+      "value": 500,
+      "minSubtotal": 5000,
+      "label": "৳500 Flat Savings"
+    }
+  ],
+  "products": [
+    {
+      "id": "wireless-earbuds-tws",
+      "slug": "wireless-earbuds-tws",
+      "name": "Wireless Earbuds TWS",
+      "category": "accessories",
+      "categoryLabel": "Accessories",
+      "origin": "BdHridoy Verified",
+      "priceBdt": 1999,
+      "compareAtBdt": 2499,
+      "discountPercent": 20,
+      "stock": 28,
+      "availabilityNote": "In Stock",
+      "rating": 4.9,
+      "reviewCount": 1,
+      "image": "",
+      "imageKey": "headphones",
+      "shortDesc": "Crystal-clear Bluetooth 5.3 audio with active call noise reduction and 32h battery.",
+      "story": "Engineered for daily Dhaka commutes and clear voice calls. Features touch playback controls, IPX5 sweat resistance, and rapid USB-C charging.",
+      "specs": [
+        {
+          "label": "Connectivity",
+          "value": "Bluetooth 5.3 Low-Latency"
+        },
+        {
+          "label": "Battery",
+          "value": "32 Hours Total with Case"
+        },
+        {
+          "label": "Charging",
+          "value": "USB-C Fast Charge"
+        },
+        {
+          "label": "Warranty",
+          "value": "6 Months Official Replacement"
+        }
+      ],
+      "variants": [
+        {
+          "id": "matte-black",
+          "label": "Matte Black",
+          "colorHex": "#1E293B"
+        },
+        {
+          "id": "pearl-white",
+          "label": "Pearl White",
+          "colorHex": "#F1F5F9"
+        }
+      ],
+      "reviews": [
+        {
+          "id": "rev-1",
+          "author": "Tanvir Ahmed",
+          "city": "Banani, Dhaka",
+          "rating": 5,
+          "date": "12 Nov 2026",
+          "comment": "Great bass and call clarity for the price. Received next day in Dhaka."
+        }
+      ]
+    },
+    {
+      "id": "smart-watch-pro",
+      "slug": "smart-watch-pro",
+      "name": "Smart Watch",
+      "category": "accessories",
+      "categoryLabel": "Accessories",
+      "origin": "BdHridoy Verified",
+      "priceBdt": 2999,
+      "compareAtBdt": 3999,
+      "discountPercent": 25,
+      "stock": 19,
+      "availabilityNote": "In Stock",
+      "rating": 4.8,
+      "reviewCount": 1,
+      "image": "",
+      "imageKey": "watch",
+      "shortDesc": "AMOLED display smartwatch with Bluetooth calling, heart-rate monitor & 10-day battery.",
+      "story": "Stay connected with crisp Bangla & English notifications, SpO2 tracking, 100+ workout modes, and interchangeable 20mm straps.",
+      "specs": [
+        {
+          "label": "Display",
+          "value": "1.43\" Always-On AMOLED"
+        },
+        {
+          "label": "Battery",
+          "value": "Up to 10 Days"
+        },
+        {
+          "label": "Water Resistance",
+          "value": "IP68 Waterproof"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Android & iOS"
+        }
+      ],
+      "variants": [
+        {
+          "id": "emerald-tan",
+          "label": "Silver · Tan Strap",
+          "colorHex": "#0F523E"
+        },
+        {
+          "id": "obsidian-black",
+          "label": "Graphite · Black Strap",
+          "colorHex": "#1E293B"
+        }
+      ],
+      "reviews": [
+        {
+          "id": "rev-2",
+          "author": "Nafis Chowdhury",
+          "city": "Chattogram",
+          "rating": 5,
+          "date": "10 Nov 2026",
+          "comment": "Display is super bright outdoors and battery easily lasts a full week."
+        }
+      ]
+    },
+    {
+      "id": "laptop-backpack-urban",
+      "slug": "laptop-backpack-urban",
+      "name": "Laptop Backpack",
+      "category": "laptops",
+      "categoryLabel": "Laptops & Carry",
+      "origin": "Dhaka Gear Studio",
+      "priceBdt": 1699,
+      "compareAtBdt": 1999,
+      "discountPercent": 15,
+      "stock": 24,
+      "availabilityNote": "In Stock",
+      "rating": 4.9,
+      "reviewCount": 1,
+      "image": "",
+      "imageKey": "satchel",
+      "shortDesc": "Water-resistant 15.6\" laptop carry bag with padded tech compartment & USB port.",
+      "story": "Designed for students and professionals across Bangladesh. Built with monsoon-ready water-repellent fabric, anti-theft back pocket, and ergonomic airflow straps.",
+      "specs": [
+        {
+          "label": "Laptop Fit",
+          "value": "Up to 15.6-inch Laptop"
+        },
+        {
+          "label": "Material",
+          "value": "Water-Resistant Oxford & Leather Trim"
+        },
+        {
+          "label": "Capacity",
+          "value": "24 Liters"
+        },
+        {
+          "label": "Warranty",
+          "value": "1 Year Zipper & Stitch Warranty"
+        }
+      ],
+      "variants": [
+        {
+          "id": "espresso-brown",
+          "label": "Classic Espresso",
+          "colorHex": "#3B2820"
+        },
+        {
+          "id": "crimson-slate",
+          "label": "Urban Charcoal",
+          "colorHex": "#334155"
+        }
+      ],
+      "reviews": [
+        {
+          "id": "rev-3",
+          "author": "Farhan Kabir",
+          "city": "Dhanmondi, Dhaka",
+          "rating": 5,
+          "date": "08 Nov 2026",
+          "comment": "Fits my 15-inch laptop and charger neatly without feeling bulky."
+        }
+      ]
+    },
+    {
+      "id": "sports-shoes-runner",
+      "slug": "sports-shoes-runner",
+      "name": "Sports Shoes",
+      "category": "sports",
+      "categoryLabel": "Sports",
+      "origin": "Active Performance",
+      "priceBdt": 2499,
+      "compareAtBdt": 3599,
+      "discountPercent": 30,
+      "stock": 16,
+      "availabilityNote": "Limited Run",
+      "rating": 4.8,
+      "reviewCount": 1,
+      "image": "",
+      "imageKey": "kantha",
+      "shortDesc": "Lightweight breathable mesh running sneakers with high-rebound cushioned sole.",
+      "story": "Engineered for morning runs at Hatirjheel or daily gym sessions. Breathable knit upper keeps feet cool in humid conditions with non-slip rubber traction.",
+      "specs": [
+        {
+          "label": "Upper",
+          "value": "Breathable Engineered Knit Mesh"
+        },
+        {
+          "label": "Midsole",
+          "value": "High-Rebound EVA Cushion"
+        },
+        {
+          "label": "Outsole",
+          "value": "Anti-Slip Traction Rubber"
+        },
+        {
+          "label": "Weight",
+          "value": "245g per shoe"
+        }
+      ],
+      "variants": [
+        {
+          "id": "blue-41",
+          "label": "Cobalt Blue · EU 41",
+          "colorHex": "#2563EB"
+        },
+        {
+          "id": "blue-42",
+          "label": "Cobalt Blue · EU 42",
+          "colorHex": "#2563EB"
+        },
+        {
+          "id": "blue-43",
+          "label": "Cobalt Blue · EU 43",
+          "colorHex": "#2563EB"
+        }
+      ],
+      "reviews": [
+        {
+          "id": "rev-4",
+          "author": "Mahir Rahman",
+          "city": "Uttara, Dhaka",
+          "rating": 5,
+          "date": "05 Nov 2026",
+          "comment": "Very comfortable cushioning and true to EU size."
+        }
+      ]
+    },
+    {
+      "id": "mechanical-keyboard-75",
+      "slug": "mechanical-keyboard-75",
+      "name": "Wireless Mechanical Keyboard 75%",
+      "category": "laptops",
+      "categoryLabel": "Laptops & Desk",
+      "origin": "Tech Atelier",
+      "priceBdt": 4850,
+      "compareAtBdt": 6200,
+      "discountPercent": 22,
+      "stock": 11,
+      "availabilityNote": "In Stock",
+      "rating": 4.9,
+      "reviewCount": 0,
+      "image": "",
+      "imageKey": "keyboard",
+      "shortDesc": "Tri-mode 2.4GHz / Bluetooth / USB-C hot-swappable mechanical keyboard with knob.",
+      "story": "Ideal for developers, gamers, and remote professionals. Gasket-mounted acoustics with long-lasting PBT keycaps and 4000mAh battery.",
+      "specs": [
+        {
+          "label": "Connectivity",
+          "value": "2.4GHz / Bluetooth 5.1 / USB-C"
+        },
+        {
+          "label": "Switches",
+          "value": "Hot-Swappable Tactile"
+        },
+        {
+          "label": "Battery",
+          "value": "4000mAh Rechargeable"
+        },
+        {
+          "label": "Layout",
+          "value": "75% Compact with Volume Dial"
+        }
+      ],
+      "variants": [
+        {
+          "id": "emerald-chalk",
+          "label": "Emerald & Chalk",
+          "colorHex": "#0F523E"
+        }
+      ],
+      "reviews": []
+    },
+    {
+      "id": "sonargaon-jamdani-panjabi",
+      "slug": "sonargaon-jamdani-panjabi",
+      "name": "Sonargaon Jamdani Cotton Panjabi",
+      "category": "fashion",
+      "categoryLabel": "Fashion",
+      "origin": "Narayanganj Loom",
+      "priceBdt": 2890,
+      "compareAtBdt": 3600,
+      "discountPercent": 20,
+      "stock": 14,
+      "availabilityNote": "Limited Run",
+      "rating": 4.9,
+      "reviewCount": 0,
+      "image": "",
+      "imageKey": "jamdani",
+      "shortDesc": "Breathable 80-count Bangladeshi handloom cotton Panjabi with woven Jamdani motifs.",
+      "story": "Woven in Narayanganj for year-round Bangladeshi comfort and festive occasions. Crisp mandarin collar and tailored contemporary fit.",
+      "specs": [
+        {
+          "label": "Fabric",
+          "value": "100% 80-Count Combed Cotton"
+        },
+        {
+          "label": "Origin",
+          "value": "Rupganj, Narayanganj"
+        },
+        {
+          "label": "Fit",
+          "value": "Regular Contemporary"
+        }
+      ],
+      "variants": [
+        {
+          "id": "emerald-m",
+          "label": "Forest Emerald · M",
+          "colorHex": "#0F523E"
+        },
+        {
+          "id": "emerald-l",
+          "label": "Forest Emerald · L",
+          "colorHex": "#0F523E"
+        },
+        {
+          "id": "emerald-xl",
+          "label": "Forest Emerald · XL",
+          "colorHex": "#0F523E"
+        }
+      ],
+      "reviews": []
+    },
+    {
+      "id": "barind-desk-lamp",
+      "slug": "barind-desk-lamp",
+      "name": "Articulated Study & Desk Lamp",
+      "category": "home-living",
+      "categoryLabel": "Home & Living",
+      "origin": "Dhaka Living",
+      "priceBdt": 2250,
+      "compareAtBdt": 4500,
+      "discountPercent": 50,
+      "stock": 12,
+      "availabilityNote": "In Stock",
+      "rating": 4.9,
+      "reviewCount": 0,
+      "image": "",
+      "imageKey": "lamp",
+      "shortDesc": "Weighted brushed brass and matte black study lamp with warm eye-care LED bulb.",
+      "story": "Built for Bangladesh 220V–240V outlets with weighted non-tip base and flicker-free 2700K illumination.",
+      "specs": [
+        {
+          "label": "Voltage",
+          "value": "220V–240V BD Standard"
+        },
+        {
+          "label": "Bulb",
+          "value": "Warm Eye-Care LED Included"
+        },
+        {
+          "label": "Height",
+          "value": "48 cm Adjustable"
+        }
+      ],
+      "variants": [
+        {
+          "id": "matte-brass",
+          "label": "Matte Black & Brass",
+          "colorHex": "#B4843E"
+        }
+      ],
+      "reviews": []
+    },
+    {
+      "id": "srimangal-tea-gift-set",
+      "slug": "srimangal-tea-gift-set",
+      "name": "Ceramic Tea Pot & Cup Gift Set",
+      "category": "gifts",
+      "categoryLabel": "Gifts",
+      "origin": "Rayerbazar Studio",
+      "priceBdt": 1850,
+      "compareAtBdt": 3700,
+      "discountPercent": 50,
+      "stock": 20,
+      "availabilityNote": "In Stock",
+      "rating": 4.8,
+      "reviewCount": 0,
+      "image": "",
+      "imageKey": "teaset",
+      "shortDesc": "Gift-boxed matte stoneware teapot with two tasting cups and stainless infuser.",
+      "story": "Thoughtful housewarming or corporate gift set packed in a double-cushioned gift box ready for courier delivery anywhere in Bangladesh.",
+      "specs": [
+        {
+          "label": "Set Includes",
+          "value": "650ml Teapot + 2 Cups"
+        },
+        {
+          "label": "Material",
+          "value": "High-Fired Stoneware"
+        }
+      ],
+      "variants": [
+        {
+          "id": "charcoal-clay",
+          "label": "Matte Charcoal & Clay",
+          "colorHex": "#2C2C2A"
+        }
+      ],
+      "reviews": []
+    },
+    {
+      "id": "smartphone-fast-power-bundle",
+      "slug": "smartphone-fast-power-bundle",
+      "name": "20W GaN Charger & MagSafe Case Kit",
+      "category": "mobiles",
+      "categoryLabel": "Mobiles",
+      "origin": "Mobile Essentials",
+      "priceBdt": 1450,
+      "compareAtBdt": 2900,
+      "discountPercent": 50,
+      "stock": 30,
+      "availabilityNote": "In Stock",
+      "rating": 4.8,
+      "reviewCount": 0,
+      "image": "",
+      "imageKey": "headphones",
+      "shortDesc": "3-pin BD plug GaN fast charger with braided USB-C cable and shockproof phone kit.",
+      "story": "Surge-protected fast charging tailored for Bangladeshi voltage fluctuations, compatible with iPhone, Samsung, Xiaomi, and Pixel devices.",
+      "specs": [
+        {
+          "label": "Output",
+          "value": "20W–30W PD Fast Charge"
+        },
+        {
+          "label": "Plug Type",
+          "value": "BD 3-Pin Standard"
+        }
+      ],
+      "variants": [
+        {
+          "id": "usb-c-kit",
+          "label": "USB-C PD Kit",
+          "colorHex": "#1E293B"
+        }
+      ],
+      "reviews": []
+    },
+    {
+      "id": "botanical-skincare-duo",
+      "slug": "botanical-skincare-duo",
+      "name": "Hydrating Neem & Vitamin C Care Set",
+      "category": "beauty",
+      "categoryLabel": "Beauty & Care",
+      "origin": "Pure Care BD",
+      "priceBdt": 1290,
+      "compareAtBdt": 1850,
+      "discountPercent": 30,
+      "stock": 4,
+      "availabilityNote": "In Stock",
+      "rating": 4.9,
+      "reviewCount": 0,
+      "image": "",
+      "imageKey": "teaset",
+      "shortDesc": "Dermatologically tested daily cleanser and lightweight hydrating gel for humid weather.",
+      "story": "Formulated for tropical humidity with non-comedogenic botanical extracts that keep skin fresh without oiliness.",
+      "specs": [
+        {
+          "label": "Volume",
+          "value": "150ml Cleanser + 50ml Gel"
+        },
+        {
+          "label": "Skin Type",
+          "value": "All Skin Types · Oil-Free"
+        }
+      ],
+      "variants": [
+        {
+          "id": "daily-duo",
+          "label": "Daily Care Duo",
+          "colorHex": "#06B6D4"
+        }
+      ],
+      "reviews": []
+    }
+  ]
+}
